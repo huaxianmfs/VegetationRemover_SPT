@@ -19,7 +19,7 @@ bash
 # Windows
 build.bat
 
-# 或手动
+手动
 dotnet build VegetationRemover.csproj -c Release
 构建成功后会自动拷贝 VegetationRemover.dll 到 BepInEx/plugins/VegetationRemover/。
 
